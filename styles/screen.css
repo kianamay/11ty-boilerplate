@@ -52,8 +52,8 @@ h1 {
 }
 
 h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: rgb(231, 135, 255);
+    background: linear-gradient(45deg, rgb(234, 151, 255) 0%, rgb(114, 255, 225) 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -79,8 +79,8 @@ a{
 }
 
 p strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: rgb(231, 135, 255);
+    background: linear-gradient(45deg, rgb(234, 151, 255) 0%, rgb(114, 255, 225) 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
